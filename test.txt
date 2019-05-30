@@ -1,0 +1,2 @@
+El archivo .gitignore se utiliza para el control de versiones de git, se 
+encarga de ignorar ciertos aspectos al realizar los pull.
