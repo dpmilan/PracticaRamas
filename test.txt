@@ -1,0 +1,1 @@
+sirve para decirle a git que archivos o directorios debe ignorar y no subir al repositorio de codigo
