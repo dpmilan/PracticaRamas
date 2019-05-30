@@ -1,0 +1,1 @@
+gitignore - Especifica archivos intencionalmente sin seguimiento para ignorar
