@@ -1,0 +1,1 @@
+Gitignore sirve para decirle a Git qué archivos o directorios completos debe ignorar y no subir al repositorio de código
