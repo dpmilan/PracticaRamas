@@ -1,0 +1,2 @@
+El archivo gitignore nos sirve para el control de versiones de git, este 
+archivo permite ignorar ciertas cosas que no se desea manejar.
