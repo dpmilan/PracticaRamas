@@ -1,2 +1,3 @@
 El archivo .gitignore se utiliza para el control de versiones de git, se 
 encarga de ignorar ciertos aspectos al realizar los pull.
+Es en estos archivos donde se incluyen las rutas de todos los directorios y ficheros que queremos excluir de git, es decir, que no queremos que sean rastreados.
